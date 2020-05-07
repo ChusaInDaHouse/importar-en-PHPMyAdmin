@@ -1,1 +1,9 @@
+
+ * Importar el archivo al FTP
+ * Entrar en el directorio donde se aloja el archivo cd www/patata
+ * Cambiar los DB_ por los nombres que se correspondan
+ * Intro, poner contrraseña y listo! 
+
+
+
 mysql -h DB_Host -u DB_Usuario DB_Nombre -p < Archivo.sql
