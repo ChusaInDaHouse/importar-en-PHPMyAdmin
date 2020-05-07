@@ -1,0 +1,1 @@
+mysql -h DB_Host -u DB_Usuario DB_Nombre -p < Archivo.sql
